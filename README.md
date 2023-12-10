@@ -43,6 +43,6 @@ The simple shell also supports the following additional features:
 
 ## Authors
 
--   Abdallah Ouhmane
+-   Abdallah Ouahmane
 -   Simangele Tutubala
 
