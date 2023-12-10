@@ -1,4 +1,4 @@
-#Simple Shell
+Simple Shell
 This is a simple shell written in C. It can be used to execute commands, such as ls, cd, and pwd.
 
 Commands
