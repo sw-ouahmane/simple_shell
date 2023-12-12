@@ -9,7 +9,7 @@ The simple shell project written in C. It ca be used to execute commands, such a
 2. [Debugging](#debugging-)
 3. [Building](#building-)
 4. [Running](#running-)
-5. [Additional Features](#Additional Features-)
+5. [Additional-Features](#Additional-Features-)
 6. [Authors](#authors-%EF%B8%8F)
 
 ## Commands
