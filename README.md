@@ -1,6 +1,16 @@
 # Simple Shell
 
-This is a simple shell written in C. It can be used to execute commands, such as `ls`, `cd`, and `pwd`.
+## Introduction 🚀
+
+The simple shell project written in C. It ca be used to execute commands, such as `ls`, `cd`, and `pwd`.
+
+## Table of Contents
+1. [Commands](#commands-)
+2. [Debugging](#debugging-)
+3. [Building](#building-)
+4. [Running](#running-)
+5. [Additional Features](#Additional Features-)
+6. [Authors](#authors-%EF%B8%8F)
 
 ## Commands
 
